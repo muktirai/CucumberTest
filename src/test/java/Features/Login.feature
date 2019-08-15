@@ -1,4 +1,4 @@
 Feature: Login validation
 
 
-  Scenario: Validate login
+  Scenario: Validate login on the page
